@@ -5,6 +5,7 @@
 //@match            https://gemilab.labri.fr/page/page_liste_mission.php
 //@match            https://gemilab.labri.fr/page/page_modif_user.php
 //@version          1.0
+//@updateURL        https://raw.githubusercontent.com/hubnern/gemilab-css/master/gemilab.user.js
 //@author           hubnern
 // ==/UserScript==
 
