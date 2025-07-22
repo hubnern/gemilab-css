@@ -4,5 +4,5 @@ Modifie les pages web de [gemilab](https://gemilab.labri.fr) pour les rendre plu
 
 ## Utilisation
 
-Installez [Fire Monkey](https://addons.mozilla.org/en-CA/firefox/addon/firemonkey/) puis ouvrez le script dans le navigateur pour que fire monkey l'installe automatiquement (ou allez sur [cette page](https://raw.githubusercontent.com/hubnern/gemilab-css/master/gemilab.user.js))
+Installez [Tampermonkey](https://addons.mozilla.org/fr/firefox/addon/tampermonkey/) puis ouvrez le script dans le navigateur pour que fire monkey l'installe automatiquement (ou allez sur [cette page](https://raw.githubusercontent.com/hubnern/gemilab-css/master/gemilab.user.js))
 
